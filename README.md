@@ -3,6 +3,8 @@ Pokedex Project for Tokopedia's online assessment
 
 You can access the project here: [Pokemon Tokopedia](https://pokemon-tokopedia.netlify.app)
 
+NOTE: The app is currently deployed on Netlify. Netlify is mostly used for static pages. So the app is deployed without using the node-js server. However this git repo includes a server.js file in case that you want to deploy it with a server.
+
 Below is the documentation on how to use the app, all the functionalities and the file structure.
 
 ## How to use
